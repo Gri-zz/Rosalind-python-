@@ -25,4 +25,5 @@ def translate():
 translate(RNA)
 """
 
+### I ### GIVE ### UP for now...
 # JUST USE THIS... https://web.expasy.org/translate/
